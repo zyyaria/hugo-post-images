@@ -1,1 +1,1 @@
-# hugo-post-images
+# hugo-img
